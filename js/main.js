@@ -18,7 +18,7 @@ const SITE_CONFIG = {
     { title: 'Orientación vocacional', description: 'Acompañamiento para decisiones vocacionales y profesionales.' }
   ],
   whatsappNumber: "595983405108",
-  whatsappMessage: "Hola, soy Alicia. Quisiera agendar una consulta psicológica. ¿Tienen horarios disponibles?",
+  whatsappMessage: "Hola, quisiera agendar una consulta psicologica. Tienen horarios disponibles?",
   instagram: "https://www.instagram.com/equilibriointerior_consultorio?igsh=MWtoamNwMTF6Njd5cw==",
   facebook: "https://www.facebook.com/share/17t9n1qVTD/"
 };
