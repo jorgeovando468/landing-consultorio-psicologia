@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "nombre": "LUQUE" },
+      "geometry": { "type": "Point", "coordinates": [-57.487753, -25.2713671] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nombre": "LIMPIO" },
+      "geometry": { "type": "Point", "coordinates": [-57.4752525, -25.1687578] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nombre": "CORONEL OVIEDO" },
+      "geometry": { "type": "Point", "coordinates": [-56.4400296, -25.4469343] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nombre": "CONCEPCION" },
+      "geometry": { "type": "Point", "coordinates": [-57.4431756, -23.4075833] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nombre": "CURUGUATY" },
+      "geometry": { "type": "Point", "coordinates": [-55.69262699999999, -24.4719158] }
+    }
+  ]
+}
