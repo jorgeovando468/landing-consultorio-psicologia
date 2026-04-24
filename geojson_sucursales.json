@@ -24,7 +24,42 @@
     {
       "type": "Feature",
       "properties": { "nombre": "CURUGUATY" },
-      "geometry": { "type": "Point", "coordinates": [-55.69262699999999, -24.4719158] }
+      "geometry": { "type": "Point", "coordinates": [-55.692627, -24.4719158] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nombre": "YVY YAU" },
+      "geometry": { "type": "Point", "coordinates": [-56.541555, -22.9636855] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nombre": "SANTA ROSA" },
+      "geometry": { "type": "Point", "coordinates": [-56.519216, -23.8265671] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nombre": "CARAPEGUA" },
+      "geometry": { "type": "Point", "coordinates": [-57.2404975, -25.7678754] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nombre": "SANTANI" },
+      "geometry": { "type": "Point", "coordinates": [-56.4434737, -24.6645914] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nombre": "ITA" },
+      "geometry": { "type": "Point", "coordinates": [-57.3598716, -25.5104551] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nombre": "HORQUETA" },
+      "geometry": { "type": "Point", "coordinates": [-57.0460054, -23.3475849] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nombre": "CRUCE LIBERACION" },
+      "geometry": { "type": "Point", "coordinates": [-56.4357488, -24.1924645] }
     }
   ]
 }
